@@ -10,6 +10,7 @@
 
 - [x] [SOTA](https://github.com/ZZXin/Online-Visual-Tracking-SOTA)
 - [x] [ta-siamrpn++](https://github.com/ZZXin/ta-siamrpn)
+- [x] [StyleTransfer](https://github.com/ZZXin/StyleTransfer)
 
 ## Contact
 
